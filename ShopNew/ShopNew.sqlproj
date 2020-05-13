@@ -61,5 +61,12 @@
   <ItemGroup>
     <Build Include="Customers.sql" />
     <Build Include="Orders.sql" />
+    <Build Include="Cars.sql" />
+    <Build Include="Brand.sql" />
+    <Build Include="Managers.sql" />
+    <Build Include="Models.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="ShopNew.refactorlog" />
   </ItemGroup>
 </Project>
